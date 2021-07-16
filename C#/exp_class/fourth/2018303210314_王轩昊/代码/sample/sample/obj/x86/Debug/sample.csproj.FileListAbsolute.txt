@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\代码\sample\sample\bin\Debug\sample.exe
+C:\Users\Administrator\Desktop\代码\sample\sample\bin\Debug\sample.pdb
+C:\Users\Administrator\Desktop\代码\sample\sample\obj\x86\Debug\sample.Form1.resources
+C:\Users\Administrator\Desktop\代码\sample\sample\obj\x86\Debug\sample.Properties.Resources.resources
+C:\Users\Administrator\Desktop\代码\sample\sample\obj\x86\Debug\sample.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\代码\sample\sample\obj\x86\Debug\sample.exe
+C:\Users\Administrator\Desktop\代码\sample\sample\obj\x86\Debug\sample.pdb

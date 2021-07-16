@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        /* !important增强优先级,对 继承 属性经无效 */
+        div.bulid{ color: grey;}
+        /* .bulid{ color: red !important ;} */
+        #good{ color: green;}
+
+        /* 群组优先级与单一相同。看顺序 */
+        div,p{ color: khaki;}
+        div{ color: red;}
+
+        /* 层次选择器优先级 */
+        /* ul li .box p input{} 权重比较：1+1+10+1+1
+           .hello span #elem{}            10+1+100*/
+
+    </style>
+</head>
+<body>
+    <div class="bulid" id="good">这是一个块</div>
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+{#{% load static %}#}
+{#要load static标签，因为它不是内置的标签，要想省去这步，在settings.py中改配置#}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+    <link rel="stylesheet" href="{% static 'index.css' %}">
+</head>
+<body>
+    <img src="{% static 'front/gologo.jpeg'%}" alt=""> {#要使用app中的static文件要把app放在setting.py中的installed app中#}
+</body>
+</html>

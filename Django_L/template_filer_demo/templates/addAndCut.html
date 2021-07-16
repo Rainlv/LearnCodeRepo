@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>add_cut</title>
+</head>
+<body>
+    <p><a href="{% url 'index' %}">首页</a></p>
+
+{#    add过滤器#}
+    {{ value1|add:value2 }}
+    {{ str1|add:str2 }}
+    {{ int_str1|add:int_str2 }}
+   {{ int1|add:int2 }}
+
+{#    cut过滤器#}
+    {{ word|cut:'he' }}
+</body>
+</html>

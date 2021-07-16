@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<style>
+    #box1 { width: 200px;height: 200px;border:red 20px;
+           background: blue; padding: 20px 40px ;
+            margin: 30px 20px;
+            box-sizing: content-box; }
+            /* content-box:width、weight -->content */
+    #box2 { width: 200px;height: 200px;border:yellow 20px;
+           background: black; padding: 20px 40px ;
+            margin: 30px 20px;
+            box-sizing: border-box; }
+            /* border-box:width、weight-->content padding border */
+</style>
+<body>
+    <div id="box1">内容盒子</div>
+    <div id="box2">边框盒子</div>
+</body>
+</html>

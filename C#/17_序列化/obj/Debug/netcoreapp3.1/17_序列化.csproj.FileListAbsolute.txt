@@ -1,0 +1,12 @@
+E:\Code\C#\17_序列化\bin\Debug\netcoreapp3.1\17_序列化.exe
+E:\Code\C#\17_序列化\bin\Debug\netcoreapp3.1\17_序列化.deps.json
+E:\Code\C#\17_序列化\bin\Debug\netcoreapp3.1\17_序列化.runtimeconfig.json
+E:\Code\C#\17_序列化\bin\Debug\netcoreapp3.1\17_序列化.runtimeconfig.dev.json
+E:\Code\C#\17_序列化\bin\Debug\netcoreapp3.1\17_序列化.dll
+E:\Code\C#\17_序列化\bin\Debug\netcoreapp3.1\17_序列化.pdb
+E:\Code\C#\17_序列化\obj\Debug\netcoreapp3.1\17_序列化.AssemblyInfoInputs.cache
+E:\Code\C#\17_序列化\obj\Debug\netcoreapp3.1\17_序列化.AssemblyInfo.cs
+E:\Code\C#\17_序列化\obj\Debug\netcoreapp3.1\17_序列化.csproj.CoreCompileInputs.cache
+E:\Code\C#\17_序列化\obj\Debug\netcoreapp3.1\17_序列化.dll
+E:\Code\C#\17_序列化\obj\Debug\netcoreapp3.1\17_序列化.pdb
+E:\Code\C#\17_序列化\obj\Debug\netcoreapp3.1\17_序列化.genruntimeconfig.cache

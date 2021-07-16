@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="./common.css">
+    <!-- 外部样式与内部样式优先看位置，下面的优先 -->
+    <style>
+        /* 单一样式优先级 ：
+                style行间 > id > class > tag > *(通配) > 继承  
+          权重：  1000      100    10      1   */
+        #elem{ color: red;}
+        .try{ color: seagreen;}
+        /* div{ color: skyblue;} */
+        *{ color: violet;}
+        body{ color: wheat;}
+    </style>
+</head>
+<body>
+    <div id="elem" style="color: sandybrown;">这是块</div>
+    <div id="elem"; class="try">这是块</div>
+    <div>这也是块</div>
+    <div></div>
+</body>
+</html>

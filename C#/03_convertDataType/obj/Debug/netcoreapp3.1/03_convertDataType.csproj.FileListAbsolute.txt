@@ -1,0 +1,13 @@
+E:\Code\C#\03_convertDataType\obj\Debug\netcoreapp3.1\03_convertDataType.csprojAssemblyReference.cache
+E:\Code\C#\03_convertDataType\obj\Debug\netcoreapp3.1\03_convertDataType.AssemblyInfoInputs.cache
+E:\Code\C#\03_convertDataType\obj\Debug\netcoreapp3.1\03_convertDataType.AssemblyInfo.cs
+E:\Code\C#\03_convertDataType\obj\Debug\netcoreapp3.1\03_convertDataType.csproj.CoreCompileInputs.cache
+E:\Code\C#\03_convertDataType\bin\Debug\netcoreapp3.1\03_convertDataType.exe
+E:\Code\C#\03_convertDataType\bin\Debug\netcoreapp3.1\03_convertDataType.deps.json
+E:\Code\C#\03_convertDataType\bin\Debug\netcoreapp3.1\03_convertDataType.runtimeconfig.json
+E:\Code\C#\03_convertDataType\bin\Debug\netcoreapp3.1\03_convertDataType.runtimeconfig.dev.json
+E:\Code\C#\03_convertDataType\bin\Debug\netcoreapp3.1\03_convertDataType.dll
+E:\Code\C#\03_convertDataType\bin\Debug\netcoreapp3.1\03_convertDataType.pdb
+E:\Code\C#\03_convertDataType\obj\Debug\netcoreapp3.1\03_convertDataType.dll
+E:\Code\C#\03_convertDataType\obj\Debug\netcoreapp3.1\03_convertDataType.pdb
+E:\Code\C#\03_convertDataType\obj\Debug\netcoreapp3.1\03_convertDataType.genruntimeconfig.cache

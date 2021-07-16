@@ -1,0 +1,13 @@
+{% load tz %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {{ creat_time|localtime }}
+    {{ creat_time }} {# 系统会默认调用loacltime过滤器，加不加都一样 #}
+    {{ local_time }}
+</body>
+</html>

@@ -1,0 +1,13 @@
+E:\Code\C#\04_tryCatch\bin\Debug\netcoreapp3.1\04_tryCatch.exe
+E:\Code\C#\04_tryCatch\bin\Debug\netcoreapp3.1\04_tryCatch.deps.json
+E:\Code\C#\04_tryCatch\bin\Debug\netcoreapp3.1\04_tryCatch.runtimeconfig.json
+E:\Code\C#\04_tryCatch\bin\Debug\netcoreapp3.1\04_tryCatch.runtimeconfig.dev.json
+E:\Code\C#\04_tryCatch\bin\Debug\netcoreapp3.1\04_tryCatch.dll
+E:\Code\C#\04_tryCatch\bin\Debug\netcoreapp3.1\04_tryCatch.pdb
+E:\Code\C#\04_tryCatch\obj\Debug\netcoreapp3.1\04_tryCatch.AssemblyInfoInputs.cache
+E:\Code\C#\04_tryCatch\obj\Debug\netcoreapp3.1\04_tryCatch.AssemblyInfo.cs
+E:\Code\C#\04_tryCatch\obj\Debug\netcoreapp3.1\04_tryCatch.csproj.CoreCompileInputs.cache
+E:\Code\C#\04_tryCatch\obj\Debug\netcoreapp3.1\04_tryCatch.dll
+E:\Code\C#\04_tryCatch\obj\Debug\netcoreapp3.1\04_tryCatch.pdb
+E:\Code\C#\04_tryCatch\obj\Debug\netcoreapp3.1\04_tryCatch.genruntimeconfig.cache
+E:\Code\C#\04_tryCatch\obj\Debug\netcoreapp3.1\04_tryCatch.csprojAssemblyReference.cache

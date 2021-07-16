@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        /* 盒子模型：
+                content--> padding--> border--> margin
+    （快递盒比喻）  物品      填充物     包装盒     盒子与盒子的间隙 */
+        
+        #box1{ width: 300px;height: 300px; background: red;border: blue solid ;padding: 30px; margin: 10px;}
+        #box2{ width: 200px;  height: 200px; background: black; color: white;margin: -20;}
+        /* padding是内边距,可单边设置 -left等，不为负数
+            padding: 
+                    只写一个值30px（上下左右）
+                    写两个值（空格间隔） 30px 40px（上下、左右）
+                    写四个值  30px 60px 50px 40px（上、右、下、左[顺时针]）*/
+        /* margin 外边距，属性设置与padding相同，可为负数 */
+    </style>
+</head>
+<body>
+    <div id="box1">这是块</div>
+    <div id="box2"></div>
+</body>
+</html>

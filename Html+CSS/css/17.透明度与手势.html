@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        #div1{ width: 100px; height: 100px;background: red;
+            opacity: 0.5;}/*    子类也会受影响，里面的字也半透明 */
+        #div2{ width: 100px; height: 100px;background: rgba(255, 0, 0, 0.5);}/* 只有背景受影响 */
+        #div3{ width: 100px; height: 100px;background:red ;
+              cursor: pointer;}
+              /* pointer手型
+                可自定义添加，需要.cur,.ico文件
+                cursor；url（路径）,auto;
+                 */
+        
+    </style>
+</head>
+<body>
+    <div id="div1">这是一个块</div>
+    <div id="div2">这又是一个块</div>
+</body>
+</html>

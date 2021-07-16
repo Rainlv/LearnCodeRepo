@@ -1,0 +1,25 @@
+## day01  opencv入门
+				调用cv2模块
+
+				cv2读取图片路径中不能包含中文，否则无法读取
+				cv2显示图片:
+							cv2.imshow('girl',g1)  # 若只执行这一行会出现程序崩溃
+							cv2.waitKey(0)   #等待键盘输入退出，单位毫秒，如果是0，无限等待
+							cv2.destroyAllWindows() # 关闭窗口
+				cv2读取图片，颜色通道是BGR
+				cv2.cvtcolor()  调整颜色
+				cv2.resize()	调整大小
+
+				cv 人脸识别
+								haar人脸特征，github下载
+								CascadeClassifier级联分类器
+				cv视频操作
+								cv2.VideoCapture("文件路径")
+								flag，frame = cap.read( )
+
+								视频保存
+										videoWriter = cv2.VideoWriter('rv.mp4',cv2.VideoWriter_fourcc('M','P','4','v'),25,(w,h))
+										参数一：文件位置
+										参数二：视频编码格式
+										参数三：视频帧率
+										参数四：图片宽高

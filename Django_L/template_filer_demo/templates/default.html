@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>default</title>
+</head>
+<body>
+    <p><a href="{% url 'index' %}">首页</a></p>
+
+    {# default过滤器 #}
+    <p>{{ value1|default:'我是""默认值' }}</p>
+    <p>{{ value2|default:'我是[]默认值' }}</p>
+    <p>{{ value3|default:'我是{}默认值' }}</p>
+    <p>{{ value4|default:'我是None默认值' }}</p>
+
+    {# default_if_none过滤器 #}
+    <p>{{ value2|default_if_none:'我是[]默认值' }}</p>
+    <p>{{ value4|default_if_none:'我是None默认值' }}</p>
+</body>
+</html>

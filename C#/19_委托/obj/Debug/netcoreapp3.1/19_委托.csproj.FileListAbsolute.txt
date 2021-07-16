@@ -1,0 +1,13 @@
+E:\Code\C#\19_委托\bin\Debug\netcoreapp3.1\19_委托.exe
+E:\Code\C#\19_委托\bin\Debug\netcoreapp3.1\19_委托.deps.json
+E:\Code\C#\19_委托\bin\Debug\netcoreapp3.1\19_委托.runtimeconfig.json
+E:\Code\C#\19_委托\bin\Debug\netcoreapp3.1\19_委托.runtimeconfig.dev.json
+E:\Code\C#\19_委托\bin\Debug\netcoreapp3.1\19_委托.dll
+E:\Code\C#\19_委托\bin\Debug\netcoreapp3.1\19_委托.pdb
+E:\Code\C#\19_委托\obj\Debug\netcoreapp3.1\19_委托.csprojAssemblyReference.cache
+E:\Code\C#\19_委托\obj\Debug\netcoreapp3.1\19_委托.AssemblyInfoInputs.cache
+E:\Code\C#\19_委托\obj\Debug\netcoreapp3.1\19_委托.AssemblyInfo.cs
+E:\Code\C#\19_委托\obj\Debug\netcoreapp3.1\19_委托.csproj.CoreCompileInputs.cache
+E:\Code\C#\19_委托\obj\Debug\netcoreapp3.1\19_委托.dll
+E:\Code\C#\19_委托\obj\Debug\netcoreapp3.1\19_委托.pdb
+E:\Code\C#\19_委托\obj\Debug\netcoreapp3.1\19_委托.genruntimeconfig.cache

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        p.box{ background: blue;}/* p.box表示只适用于段落 */
+        .sty1{ background: chartreuse; width: 2000px;}
+        .sty2{ width: 100px;}
+            /* .elem表示定义class */
+        
+
+        /* 群组选择器 */
+        div,#ppp,.h222{ background:red}
+        /* 通配选择器 ：给所有标签加属性*/
+        *{ border: red solid;}
+    </style>
+</head>
+<body>
+    <!-- id选择器，原则上不复用 
+            #elem{}     id="elem"-->
+    <div class="sty1">这是一个块</div>
+    <div class="box">这是一个块</div> <!-- p.box不生效与div结合时 -->
+    <div>这是一个块</div>
+    <p class="box sty1">这是一个段路</p><!-- 可多个添加，空格隔开，style后下面的优先显示，与class中先后无关 -->
+    <p class="sty2"> 这是一个段路</p>
+
+
+    <!-- 群组选择器 -->
+    <h2>群组选择器</h2>
+    <div>这是一个块</div>
+    <p id="ppp">这是一个段落</p>
+    <h2 class="h222">这是一个标题</h2>
+</body>
+</html>

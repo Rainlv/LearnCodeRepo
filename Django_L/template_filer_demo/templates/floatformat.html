@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>floatformat</title>
+</head>
+<body>
+    <p><a href="{% url 'index' %}">首页</a></p>
+
+    <p>{{ value }}--->{{ value|floatformat }}<p>
+    <p>{{ value0 }}--->{{ value0|floatformat}}</p>
+    <p>{{ value1 }}--->{{ value1|floatformat}}</p>
+    <p>{{ value0 }}--->{{ value0|floatformat:1 }}</p>
+    <p>{{ value2_1 }}--->{{ value2_1|floatformat:1 }}</p>
+    <p>{{ value2_2 }}--->{{ value2_2|floatformat:1 }}</p>
+</body>
+</html>

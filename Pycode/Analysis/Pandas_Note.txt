@@ -1,0 +1,67 @@
+##day01  pandas
+			
+			Series（一维）
+
+					Series创建
+							方法一：创建列表、数组
+							方法二：字典形式数据，key-->行索引，value-->数值
+					
+					索引切片同numpy
+
+					isnull（），notnull（）
+
+					Series是对numpy的升级，np中有的Series都有
+
+
+			！！！ DataFrame（数据表格，excel，二维，行列）
+
+					行-->一个样本   列-->属性
+
+					索引
+							列索引：
+									属性方法	df.列名
+									直接调用	df['列名']
+
+							行索引：
+									loc[命名的index ]
+									iloc[下标数字 ]
+
+							元素索引：
+									先行后列df.loc[ ][ ]
+									先列后行df[ ][ ]
+													df.loc[ ][ ]
+
+					切片：
+							直接使用[ ]不能对列进行切片
+
+## day02 
+					数据预处理：
+								数据清洗：空数据NaN
+
+								空数据处理方式：
+											定位空数据
+											空数据不多，可直接删除
+
+											填充：
+													无论什么填充方式，'假数据'，尽量让数据合理
+
+													中位数、平均数、众数
+
+													局部平均数
+
+													算法填充
+
+					多层索引创建
+								s = Series(np.random.randint(0,150,size = 6),
+          									 index=pd.MultiIndex.from_product([['A','B','C'],['期中','期末']]))
+
+          			聚合操作
+          						axis指定轴
+          						level参数指定聚合时的索引层级
+
+          			stack 和 unstack:
+          						stack（堆，累起来）：列变行
+          						unstack：行变列
+
+          			数据分组聚合
+          						

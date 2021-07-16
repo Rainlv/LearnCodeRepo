@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        li:nth-of-type(n){ background: yellow; }/* n表示0到无穷 */
+        li:nth-of-type(2n){ background: green; }/* 2n为偶数 */
+        li:nth-of-type(2n+1){ background: purple; }/* 2n+1为奇数 */
+        li:nth-of-type(3){ background: red; }
+        li:nth-of-type(3){ background: red; }
+
+        li:only-of-type{background: blue;}/* 单独的类型才会执行 */
+        li:first-of-type{ background: cyan;}/* 第一个 */
+        li:last-of-type{ background:black;}/* 最后一个 */
+        div:only-of-type{ background: saddlebrown;}
+        li:nth-child(4){background: tan;}/* 不会作用，第4个是div */
+        li:nth-of-type(4){background: tan;}/* 不会作用，第4个是div */
+    </style>
+</head>
+<body>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <div>这是块</div>   <!-- 不规范写法，一般ul后要跟li不能跟div -->
+        <li>作用在这 li:nth-of-type(4),第四个li  </li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+    <ul>
+        <li></li><!-- 执行only部分 -->
+    </ul>
+</body>
+</html>

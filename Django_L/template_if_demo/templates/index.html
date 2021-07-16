@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{#    {% if '鲁班一号' in heroes %}#}
+{#            <p>鲁班一号正在待机</p>#}
+{#    {% else %}#}
+{#            <p>鲁班一号正在睡觉</p>#}
+{#    {% endif %}#}
+        {% if age >= 18 and age <= 100%}
+            <p>你是成年人了，请进</p>
+        {% elif age > 100 %}
+            <p>神仙给爷爬</p>
+        {% else %}
+            <p>未成年人滚蛋</p>
+        {% endif %}
+</body>
+</html>

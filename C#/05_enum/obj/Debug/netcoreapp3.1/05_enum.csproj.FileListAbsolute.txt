@@ -1,0 +1,13 @@
+E:\Code\C#\05_enum\bin\Debug\netcoreapp3.1\05_enum.exe
+E:\Code\C#\05_enum\bin\Debug\netcoreapp3.1\05_enum.deps.json
+E:\Code\C#\05_enum\bin\Debug\netcoreapp3.1\05_enum.runtimeconfig.json
+E:\Code\C#\05_enum\bin\Debug\netcoreapp3.1\05_enum.runtimeconfig.dev.json
+E:\Code\C#\05_enum\bin\Debug\netcoreapp3.1\05_enum.dll
+E:\Code\C#\05_enum\bin\Debug\netcoreapp3.1\05_enum.pdb
+E:\Code\C#\05_enum\obj\Debug\netcoreapp3.1\05_enum.csprojAssemblyReference.cache
+E:\Code\C#\05_enum\obj\Debug\netcoreapp3.1\05_enum.AssemblyInfoInputs.cache
+E:\Code\C#\05_enum\obj\Debug\netcoreapp3.1\05_enum.AssemblyInfo.cs
+E:\Code\C#\05_enum\obj\Debug\netcoreapp3.1\05_enum.csproj.CoreCompileInputs.cache
+E:\Code\C#\05_enum\obj\Debug\netcoreapp3.1\05_enum.dll
+E:\Code\C#\05_enum\obj\Debug\netcoreapp3.1\05_enum.pdb
+E:\Code\C#\05_enum\obj\Debug\netcoreapp3.1\05_enum.genruntimeconfig.cache

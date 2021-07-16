@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <!-- 块能嵌套内联 -->
+
+    <div>
+        <span></span>
+        <a href="#"></a>
+    </div>
+
+
+
+    <!-- 块不一定能嵌套块 -->
+
+    <!-- <p>
+        <div>这是不可以的</div>
+    </p> -->
+
+
+    <!-- 内联不能嵌套块，除了a标签 -->
+
+    <!-- <span>
+        <div>这是错的</div>
+    </span> -->
+    <a href="#">
+        <div>这是允许的，表示整个块都导向a链接</div>
+    </a>
+</body>
+</html>

@@ -1,0 +1,17 @@
+E:\Code\C#\11_nameSpace\bin\Debug\netcoreapp3.1\10_1_OOB.exe
+E:\Code\C#\11_nameSpace\bin\Debug\netcoreapp3.1\11_nameSpace.exe
+E:\Code\C#\11_nameSpace\bin\Debug\netcoreapp3.1\11_nameSpace.deps.json
+E:\Code\C#\11_nameSpace\bin\Debug\netcoreapp3.1\11_nameSpace.runtimeconfig.json
+E:\Code\C#\11_nameSpace\bin\Debug\netcoreapp3.1\11_nameSpace.runtimeconfig.dev.json
+E:\Code\C#\11_nameSpace\bin\Debug\netcoreapp3.1\11_nameSpace.dll
+E:\Code\C#\11_nameSpace\bin\Debug\netcoreapp3.1\11_nameSpace.pdb
+E:\Code\C#\11_nameSpace\bin\Debug\netcoreapp3.1\10_1_OOB.dll
+E:\Code\C#\11_nameSpace\bin\Debug\netcoreapp3.1\10_1_OOB.pdb
+E:\Code\C#\11_nameSpace\obj\Debug\netcoreapp3.1\11_nameSpace.csprojAssemblyReference.cache
+E:\Code\C#\11_nameSpace\obj\Debug\netcoreapp3.1\11_nameSpace.AssemblyInfoInputs.cache
+E:\Code\C#\11_nameSpace\obj\Debug\netcoreapp3.1\11_nameSpace.AssemblyInfo.cs
+E:\Code\C#\11_nameSpace\obj\Debug\netcoreapp3.1\11_nameSpace.csproj.CoreCompileInputs.cache
+E:\Code\C#\11_nameSpace\obj\Debug\netcoreapp3.1\11_nameSpace.csproj.CopyComplete
+E:\Code\C#\11_nameSpace\obj\Debug\netcoreapp3.1\11_nameSpace.dll
+E:\Code\C#\11_nameSpace\obj\Debug\netcoreapp3.1\11_nameSpace.pdb
+E:\Code\C#\11_nameSpace\obj\Debug\netcoreapp3.1\11_nameSpace.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Code\C#\09_GameProj\bin\Debug\netcoreapp3.1\09_GameProj.exe
+E:\Code\C#\09_GameProj\bin\Debug\netcoreapp3.1\09_GameProj.deps.json
+E:\Code\C#\09_GameProj\bin\Debug\netcoreapp3.1\09_GameProj.runtimeconfig.json
+E:\Code\C#\09_GameProj\bin\Debug\netcoreapp3.1\09_GameProj.runtimeconfig.dev.json
+E:\Code\C#\09_GameProj\bin\Debug\netcoreapp3.1\09_GameProj.dll
+E:\Code\C#\09_GameProj\bin\Debug\netcoreapp3.1\09_GameProj.pdb
+E:\Code\C#\09_GameProj\obj\Debug\netcoreapp3.1\09_GameProj.csprojAssemblyReference.cache
+E:\Code\C#\09_GameProj\obj\Debug\netcoreapp3.1\09_GameProj.AssemblyInfoInputs.cache
+E:\Code\C#\09_GameProj\obj\Debug\netcoreapp3.1\09_GameProj.AssemblyInfo.cs
+E:\Code\C#\09_GameProj\obj\Debug\netcoreapp3.1\09_GameProj.csproj.CoreCompileInputs.cache
+E:\Code\C#\09_GameProj\obj\Debug\netcoreapp3.1\09_GameProj.dll
+E:\Code\C#\09_GameProj\obj\Debug\netcoreapp3.1\09_GameProj.pdb
+E:\Code\C#\09_GameProj\obj\Debug\netcoreapp3.1\09_GameProj.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Code\C#\06_struct\bin\Debug\netcoreapp3.1\06_struct.exe
+E:\Code\C#\06_struct\bin\Debug\netcoreapp3.1\06_struct.deps.json
+E:\Code\C#\06_struct\bin\Debug\netcoreapp3.1\06_struct.runtimeconfig.json
+E:\Code\C#\06_struct\bin\Debug\netcoreapp3.1\06_struct.runtimeconfig.dev.json
+E:\Code\C#\06_struct\bin\Debug\netcoreapp3.1\06_struct.dll
+E:\Code\C#\06_struct\bin\Debug\netcoreapp3.1\06_struct.pdb
+E:\Code\C#\06_struct\obj\Debug\netcoreapp3.1\06_struct.AssemblyInfoInputs.cache
+E:\Code\C#\06_struct\obj\Debug\netcoreapp3.1\06_struct.AssemblyInfo.cs
+E:\Code\C#\06_struct\obj\Debug\netcoreapp3.1\06_struct.csproj.CoreCompileInputs.cache
+E:\Code\C#\06_struct\obj\Debug\netcoreapp3.1\06_struct.dll
+E:\Code\C#\06_struct\obj\Debug\netcoreapp3.1\06_struct.pdb
+E:\Code\C#\06_struct\obj\Debug\netcoreapp3.1\06_struct.genruntimeconfig.cache
+E:\Code\C#\06_struct\obj\Debug\netcoreapp3.1\06_struct.csprojAssemblyReference.cache

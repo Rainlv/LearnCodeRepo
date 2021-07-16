@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\proj\exm1\exm1\bin\Debug\exm1.exe
+C:\Users\Administrator\Desktop\proj\exm1\exm1\bin\Debug\exm1.pdb
+C:\Users\Administrator\Desktop\proj\exm1\exm1\obj\x86\Debug\exm1.exe
+C:\Users\Administrator\Desktop\proj\exm1\exm1\obj\x86\Debug\exm1.pdb

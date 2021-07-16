@@ -1,0 +1,13 @@
+E:\Code\C#\10_4_box_unbox\bin\Debug\netcoreapp3.1\10_4_box_unbox.exe
+E:\Code\C#\10_4_box_unbox\bin\Debug\netcoreapp3.1\10_4_box_unbox.deps.json
+E:\Code\C#\10_4_box_unbox\bin\Debug\netcoreapp3.1\10_4_box_unbox.runtimeconfig.json
+E:\Code\C#\10_4_box_unbox\bin\Debug\netcoreapp3.1\10_4_box_unbox.runtimeconfig.dev.json
+E:\Code\C#\10_4_box_unbox\bin\Debug\netcoreapp3.1\10_4_box_unbox.dll
+E:\Code\C#\10_4_box_unbox\bin\Debug\netcoreapp3.1\10_4_box_unbox.pdb
+E:\Code\C#\10_4_box_unbox\obj\Debug\netcoreapp3.1\10_4_box_unbox.csprojAssemblyReference.cache
+E:\Code\C#\10_4_box_unbox\obj\Debug\netcoreapp3.1\10_4_box_unbox.AssemblyInfoInputs.cache
+E:\Code\C#\10_4_box_unbox\obj\Debug\netcoreapp3.1\10_4_box_unbox.AssemblyInfo.cs
+E:\Code\C#\10_4_box_unbox\obj\Debug\netcoreapp3.1\10_4_box_unbox.csproj.CoreCompileInputs.cache
+E:\Code\C#\10_4_box_unbox\obj\Debug\netcoreapp3.1\10_4_box_unbox.dll
+E:\Code\C#\10_4_box_unbox\obj\Debug\netcoreapp3.1\10_4_box_unbox.pdb
+E:\Code\C#\10_4_box_unbox\obj\Debug\netcoreapp3.1\10_4_box_unbox.genruntimeconfig.cache

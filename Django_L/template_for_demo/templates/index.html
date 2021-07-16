@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <ul>
+        {% for book in books reversed%}
+            <li>{{ book }}</li>
+        {% endfor %}
+    </ul>
+
+    <ul>
+        {% for e in empty %}
+            <li>e</li>
+        {% empty %}
+            <li>暂时没有评论</li>
+        {% endfor %}
+    </ul>
+
+    <table>
+        <thead>
+            <tr>
+                <td>序号</td>
+                <td>名字</td>
+                <td>年龄</td>
+                <td>身高</td>
+            </tr>
+        </thead>
+        <tbody>
+            {% for person in persons %}
+                {% if forloop.first %}
+                    <tr style="background: pink">
+                {% elif forloop.last %}
+                    <tr style="background: aqua">
+                {% else %}
+                    <tr>
+                {% endif %}
+                    <td>{{ forloop.counter }}</td>
+                    <td>{{ person.name }}</td>
+                    <td>{{ person.age }}</td>
+                    <td>{{ person.height }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    {% for key,value in goods.items %}
+        <li>{{ key }}</li>
+        <li>{{ value }}</li>
+    {% endfor %}
+
+</body>
+</html>

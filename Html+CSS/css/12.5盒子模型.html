@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        #box1{ width: 400px;height: 400px;background: red;}
+        #box2{/*  这里没写width: 200px; */height: 100px;background: blue;border-left: 30px black solid;padding: 10px;}
+        /* 虽然没有设置width属性，结果看默认与box1对齐 */
+    </style>
+</head>
+<body>
+    <div id="box1">
+        <div id="box2"></div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        div[class]{ background: seagreen;}/* 含class属性的div添加样式 */
+        div[class=search]{ background:blue;}/*匹配class只含search的*/
+        div[class*=search]{background: green;}/*匹配class含search的*/
+        div[class^=search]{background: yellow;}/*class以search开头的*/
+        div[class$=search]{ background: gray;}/*class以search结尾的 */
+        div[class][id]{background: black;}/*含class和id属性的div添加样式 */
+    </style>
+</head>
+<body>
+    <div>aaaa</div>
+    <div class="search">bbbb</div>
+    <div class="search" id="ah">bbbb</div>
+    <div class="box">cccc</div>
+    <div class="search-button">cccc</div>
+    <div class="button-search-button">cccc</div>
+    <div class="button-search">cccc</div>
+</body>
+</html>

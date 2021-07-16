@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>date</title>
+</head>
+<body>
+    <p><a href="{% url 'index' %}">首页</a></p>
+
+    {{ time|date:'Y/m/d h:i:s' }}
+    <p>{{ time|date:'d-n-Y H:i:s' }}</p>
+</body>
+</html>

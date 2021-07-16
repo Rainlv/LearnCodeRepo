@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    {% with zs=person.0 %}  {# zs=person.0 '='前后不能有空格，否则无法识别 #}
+        <p>{{ zs }}</p>
+        <p>{{ zs }}</p>
+        <p>{{ zs }}</p>
+    {% endwith %}
+        <p>{{ zs }}</p>
+
+    {% with person.1 as ls %}
+        <p>{{ ls }}</p>
+        <p>{{ ls }}</p>
+    {% endwith %}
+</body>
+</html>

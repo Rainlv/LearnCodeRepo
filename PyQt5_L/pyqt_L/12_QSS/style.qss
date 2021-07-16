@@ -1,0 +1,54 @@
+* {
+    background-color: gray;
+}
+
+.QPushButton{
+    background-color: yellow;
+    border: 4px solid;
+}
+
+QPushButton#b1{
+    background-color: cyan;
+    border: 4px solid;
+}
+
+QPushButton{
+    background-color: green;
+}
+
+QLabel:hover {
+    background-color:red;
+}
+
+#pink{
+    background-color:pink;
+}
+
+QLabel[notice_level='warning']{
+    border:3px solid yellow;
+}
+
+QLabel[notice_level='error']{
+    border:3px solid red;
+}
+
+QLabel[notice_level]{
+    background-color:pink;
+}
+
+#box1 QLabel{
+    background-color:white;
+}
+
+QCheckBox::indicator{
+    width:20px;
+    height:20px;
+}
+
+QCheckBox::indicator:checked{
+    image:url('../2_Widget/xxx.png')
+}
+
+QCheckBox::indicator:unchecked{
+    image:url('../2_Widget/ooo.png')
+}

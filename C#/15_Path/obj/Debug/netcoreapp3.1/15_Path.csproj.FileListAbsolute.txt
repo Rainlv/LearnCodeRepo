@@ -1,0 +1,13 @@
+E:\Code\C#\15_Path\bin\Debug\netcoreapp3.1\15_Path.exe
+E:\Code\C#\15_Path\bin\Debug\netcoreapp3.1\15_Path.deps.json
+E:\Code\C#\15_Path\bin\Debug\netcoreapp3.1\15_Path.runtimeconfig.json
+E:\Code\C#\15_Path\bin\Debug\netcoreapp3.1\15_Path.runtimeconfig.dev.json
+E:\Code\C#\15_Path\bin\Debug\netcoreapp3.1\15_Path.dll
+E:\Code\C#\15_Path\bin\Debug\netcoreapp3.1\15_Path.pdb
+E:\Code\C#\15_Path\obj\Debug\netcoreapp3.1\15_Path.AssemblyInfoInputs.cache
+E:\Code\C#\15_Path\obj\Debug\netcoreapp3.1\15_Path.AssemblyInfo.cs
+E:\Code\C#\15_Path\obj\Debug\netcoreapp3.1\15_Path.csproj.CoreCompileInputs.cache
+E:\Code\C#\15_Path\obj\Debug\netcoreapp3.1\15_Path.dll
+E:\Code\C#\15_Path\obj\Debug\netcoreapp3.1\15_Path.pdb
+E:\Code\C#\15_Path\obj\Debug\netcoreapp3.1\15_Path.genruntimeconfig.cache
+E:\Code\C#\15_Path\obj\Debug\netcoreapp3.1\15_Path.csprojAssemblyReference.cache

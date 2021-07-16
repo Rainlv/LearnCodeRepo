@@ -1,0 +1,13 @@
+E:\Code\C#\10_1_OOB\bin\Debug\netcoreapp3.1\10_1_OOB.exe
+E:\Code\C#\10_1_OOB\bin\Debug\netcoreapp3.1\10_1_OOB.deps.json
+E:\Code\C#\10_1_OOB\bin\Debug\netcoreapp3.1\10_1_OOB.runtimeconfig.json
+E:\Code\C#\10_1_OOB\bin\Debug\netcoreapp3.1\10_1_OOB.runtimeconfig.dev.json
+E:\Code\C#\10_1_OOB\bin\Debug\netcoreapp3.1\10_1_OOB.dll
+E:\Code\C#\10_1_OOB\bin\Debug\netcoreapp3.1\10_1_OOB.pdb
+E:\Code\C#\10_1_OOB\obj\Debug\netcoreapp3.1\10_1_OOB.csprojAssemblyReference.cache
+E:\Code\C#\10_1_OOB\obj\Debug\netcoreapp3.1\10_1_OOB.AssemblyInfoInputs.cache
+E:\Code\C#\10_1_OOB\obj\Debug\netcoreapp3.1\10_1_OOB.AssemblyInfo.cs
+E:\Code\C#\10_1_OOB\obj\Debug\netcoreapp3.1\10_1_OOB.csproj.CoreCompileInputs.cache
+E:\Code\C#\10_1_OOB\obj\Debug\netcoreapp3.1\10_1_OOB.dll
+E:\Code\C#\10_1_OOB\obj\Debug\netcoreapp3.1\10_1_OOB.pdb
+E:\Code\C#\10_1_OOB\obj\Debug\netcoreapp3.1\10_1_OOB.genruntimeconfig.cache

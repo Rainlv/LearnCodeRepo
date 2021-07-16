@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <table border="1" cellpadding="30" cellspacing="30">
+        <!-- border表格边框，cellpadding表格大小，cellspacing表格间距 -->
+        <caption>天气预报</caption> <!-- 表格标题 -->
+
+        <thead>
+            <!-- 格式，无实际意义 -->
+            <tr align="right">
+                <!-- tr定义表格行,alingn左右对齐 -->
+                <th colspan="2">
+                    <!-- th定义表头，colspan行合并 -->日期 </th>
+                <th>天气 </th>
+                <th>出行</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr valign="top">
+                <!-- tr定义表格行,valign上下对齐 -->
+                <td rowspan="2">
+                    <!-- td定义表格单元 -->20.1.26</td>
+                <td>白天</td>
+                <td>晴</td>
+                <td>开车</td>
+            </tr>
+
+            <tr>
+                <!-- 定义表格行 -->
+                <td>夜晚</td>
+                <td>阴</td>
+                <td>走路</td>
+            </tr>
+
+            <tr>
+                <!-- 定义表格行 -->
+                <td rowspan="2">
+                    <!-- rowspan列合并 -->20.1.27</td>
+                <td>白天</td>
+                <td>晴</td>
+                <td>开车</td>
+            </tr>
+
+            <tr>
+                <!-- 定义表格行 -->
+                <td>夜晚</td>
+                <td>阴</td>
+                <td>走路</td>
+            </tr>
+        </tbody>
+
+        <tfoot>
+
+        </tfoot>
+    </table>
+</body>
+
+</html>

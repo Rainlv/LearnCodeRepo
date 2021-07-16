@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <!-- 
+        block:div、p、ul、li、h1
+            独占一行
+            支持所有样式
+            不加宽的时候与父容器宽相同
+            所占区域是矩形
+        inline:span、em、strong、img、
+            挨在一起的，不是独占一行
+            有些样式不支持，例:width、height...（img支持）
+            不写宽的时候由内容决定
+            所占区域不一定是矩形
+            内联标签间会有空隙，是由换行引起
+        inline-block:input、select...
+            挨在一起，但是支持宽高
+            矩形结构
+            有空隙
+
+        可以通过display属性更改
+     -->
+     <style>
+         span{background: red;}
+     </style>
+</head>
+<body>
+    <span>内联1内联1内联1内联1内联1内联1</span><!-- 与下面的内联有空隙 -->
+    <span>内联1</span><span>内联2</span><!-- 两个span没空隙 -->
+</body>
+</html>

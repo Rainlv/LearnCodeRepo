@@ -1,0 +1,13 @@
+E:\Code\C#\10_3_IsAs\bin\Debug\netcoreapp3.1\10_3_IsAs.exe
+E:\Code\C#\10_3_IsAs\bin\Debug\netcoreapp3.1\10_3_IsAs.deps.json
+E:\Code\C#\10_3_IsAs\bin\Debug\netcoreapp3.1\10_3_IsAs.runtimeconfig.json
+E:\Code\C#\10_3_IsAs\bin\Debug\netcoreapp3.1\10_3_IsAs.runtimeconfig.dev.json
+E:\Code\C#\10_3_IsAs\bin\Debug\netcoreapp3.1\10_3_IsAs.dll
+E:\Code\C#\10_3_IsAs\bin\Debug\netcoreapp3.1\10_3_IsAs.pdb
+E:\Code\C#\10_3_IsAs\obj\Debug\netcoreapp3.1\10_3_IsAs.csprojAssemblyReference.cache
+E:\Code\C#\10_3_IsAs\obj\Debug\netcoreapp3.1\10_3_IsAs.AssemblyInfoInputs.cache
+E:\Code\C#\10_3_IsAs\obj\Debug\netcoreapp3.1\10_3_IsAs.AssemblyInfo.cs
+E:\Code\C#\10_3_IsAs\obj\Debug\netcoreapp3.1\10_3_IsAs.csproj.CoreCompileInputs.cache
+E:\Code\C#\10_3_IsAs\obj\Debug\netcoreapp3.1\10_3_IsAs.dll
+E:\Code\C#\10_3_IsAs\obj\Debug\netcoreapp3.1\10_3_IsAs.pdb
+E:\Code\C#\10_3_IsAs\obj\Debug\netcoreapp3.1\10_3_IsAs.genruntimeconfig.cache

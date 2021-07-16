@@ -1,0 +1,13 @@
+E:\Code\C#\02_formatString\bin\Debug\netcoreapp3.1\02_formatString.exe
+E:\Code\C#\02_formatString\bin\Debug\netcoreapp3.1\02_formatString.deps.json
+E:\Code\C#\02_formatString\bin\Debug\netcoreapp3.1\02_formatString.runtimeconfig.json
+E:\Code\C#\02_formatString\bin\Debug\netcoreapp3.1\02_formatString.runtimeconfig.dev.json
+E:\Code\C#\02_formatString\bin\Debug\netcoreapp3.1\02_formatString.dll
+E:\Code\C#\02_formatString\bin\Debug\netcoreapp3.1\02_formatString.pdb
+E:\Code\C#\02_formatString\obj\Debug\netcoreapp3.1\02_formatString.csprojAssemblyReference.cache
+E:\Code\C#\02_formatString\obj\Debug\netcoreapp3.1\02_formatString.AssemblyInfoInputs.cache
+E:\Code\C#\02_formatString\obj\Debug\netcoreapp3.1\02_formatString.AssemblyInfo.cs
+E:\Code\C#\02_formatString\obj\Debug\netcoreapp3.1\02_formatString.csproj.CoreCompileInputs.cache
+E:\Code\C#\02_formatString\obj\Debug\netcoreapp3.1\02_formatString.dll
+E:\Code\C#\02_formatString\obj\Debug\netcoreapp3.1\02_formatString.pdb
+E:\Code\C#\02_formatString\obj\Debug\netcoreapp3.1\02_formatString.genruntimeconfig.cache

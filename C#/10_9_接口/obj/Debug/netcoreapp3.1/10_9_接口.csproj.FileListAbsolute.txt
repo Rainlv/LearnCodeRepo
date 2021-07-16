@@ -1,0 +1,13 @@
+E:\Code\C#\10_9_接口\bin\Debug\netcoreapp3.1\10_9_接口.exe
+E:\Code\C#\10_9_接口\bin\Debug\netcoreapp3.1\10_9_接口.deps.json
+E:\Code\C#\10_9_接口\bin\Debug\netcoreapp3.1\10_9_接口.runtimeconfig.json
+E:\Code\C#\10_9_接口\bin\Debug\netcoreapp3.1\10_9_接口.runtimeconfig.dev.json
+E:\Code\C#\10_9_接口\bin\Debug\netcoreapp3.1\10_9_接口.dll
+E:\Code\C#\10_9_接口\bin\Debug\netcoreapp3.1\10_9_接口.pdb
+E:\Code\C#\10_9_接口\obj\Debug\netcoreapp3.1\10_9_接口.csprojAssemblyReference.cache
+E:\Code\C#\10_9_接口\obj\Debug\netcoreapp3.1\10_9_接口.AssemblyInfoInputs.cache
+E:\Code\C#\10_9_接口\obj\Debug\netcoreapp3.1\10_9_接口.AssemblyInfo.cs
+E:\Code\C#\10_9_接口\obj\Debug\netcoreapp3.1\10_9_接口.csproj.CoreCompileInputs.cache
+E:\Code\C#\10_9_接口\obj\Debug\netcoreapp3.1\10_9_接口.dll
+E:\Code\C#\10_9_接口\obj\Debug\netcoreapp3.1\10_9_接口.pdb
+E:\Code\C#\10_9_接口\obj\Debug\netcoreapp3.1\10_9_接口.genruntimeconfig.cache

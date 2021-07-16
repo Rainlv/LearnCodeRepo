@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\proj\ae\ae\bin\Debug\ae.exe
+C:\Users\Administrator\Desktop\proj\ae\ae\bin\Debug\ae.pdb
+C:\Users\Administrator\Desktop\proj\ae\ae\obj\x86\Debug\ae.Form1.resources
+C:\Users\Administrator\Desktop\proj\ae\ae\obj\x86\Debug\ae.Properties.Resources.resources
+C:\Users\Administrator\Desktop\proj\ae\ae\obj\x86\Debug\ae.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\proj\ae\ae\obj\x86\Debug\ae.exe
+C:\Users\Administrator\Desktop\proj\ae\ae\obj\x86\Debug\ae.pdb
+E:\Code\C#\exp_class\proj\ae\ae\bin\Debug\ae.exe
+E:\Code\C#\exp_class\proj\ae\ae\bin\Debug\ae.pdb
+E:\Code\C#\exp_class\proj\ae\ae\obj\x86\Debug\ae.csprojAssemblyReference.cache
+E:\Code\C#\exp_class\proj\ae\ae\obj\x86\Debug\ae.Form1.resources
+E:\Code\C#\exp_class\proj\ae\ae\obj\x86\Debug\ae.Properties.Resources.resources
+E:\Code\C#\exp_class\proj\ae\ae\obj\x86\Debug\ae.csproj.GenerateResource.cache
+E:\Code\C#\exp_class\proj\ae\ae\obj\x86\Debug\ae.csproj.CoreCompileInputs.cache
+E:\Code\C#\exp_class\proj\ae\ae\obj\x86\Debug\ae.exe
+E:\Code\C#\exp_class\proj\ae\ae\obj\x86\Debug\ae.pdb

@@ -1,0 +1,13 @@
+E:\Code\C#\10_5_多态\bin\Debug\netcoreapp3.1\10_5_多态.exe
+E:\Code\C#\10_5_多态\bin\Debug\netcoreapp3.1\10_5_多态.deps.json
+E:\Code\C#\10_5_多态\bin\Debug\netcoreapp3.1\10_5_多态.runtimeconfig.json
+E:\Code\C#\10_5_多态\bin\Debug\netcoreapp3.1\10_5_多态.runtimeconfig.dev.json
+E:\Code\C#\10_5_多态\bin\Debug\netcoreapp3.1\10_5_多态.dll
+E:\Code\C#\10_5_多态\bin\Debug\netcoreapp3.1\10_5_多态.pdb
+E:\Code\C#\10_5_多态\obj\Debug\netcoreapp3.1\10_5_多态.csprojAssemblyReference.cache
+E:\Code\C#\10_5_多态\obj\Debug\netcoreapp3.1\10_5_多态.AssemblyInfoInputs.cache
+E:\Code\C#\10_5_多态\obj\Debug\netcoreapp3.1\10_5_多态.AssemblyInfo.cs
+E:\Code\C#\10_5_多态\obj\Debug\netcoreapp3.1\10_5_多态.csproj.CoreCompileInputs.cache
+E:\Code\C#\10_5_多态\obj\Debug\netcoreapp3.1\10_5_多态.dll
+E:\Code\C#\10_5_多态\obj\Debug\netcoreapp3.1\10_5_多态.pdb
+E:\Code\C#\10_5_多态\obj\Debug\netcoreapp3.1\10_5_多态.genruntimeconfig.cache

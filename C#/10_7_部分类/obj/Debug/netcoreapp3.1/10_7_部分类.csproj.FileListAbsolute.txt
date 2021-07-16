@@ -1,0 +1,12 @@
+E:\Code\C#\10_7_部分类\bin\Debug\netcoreapp3.1\10_7_部分类.exe
+E:\Code\C#\10_7_部分类\bin\Debug\netcoreapp3.1\10_7_部分类.deps.json
+E:\Code\C#\10_7_部分类\bin\Debug\netcoreapp3.1\10_7_部分类.runtimeconfig.json
+E:\Code\C#\10_7_部分类\bin\Debug\netcoreapp3.1\10_7_部分类.runtimeconfig.dev.json
+E:\Code\C#\10_7_部分类\bin\Debug\netcoreapp3.1\10_7_部分类.dll
+E:\Code\C#\10_7_部分类\bin\Debug\netcoreapp3.1\10_7_部分类.pdb
+E:\Code\C#\10_7_部分类\obj\Debug\netcoreapp3.1\10_7_部分类.AssemblyInfoInputs.cache
+E:\Code\C#\10_7_部分类\obj\Debug\netcoreapp3.1\10_7_部分类.AssemblyInfo.cs
+E:\Code\C#\10_7_部分类\obj\Debug\netcoreapp3.1\10_7_部分类.csproj.CoreCompileInputs.cache
+E:\Code\C#\10_7_部分类\obj\Debug\netcoreapp3.1\10_7_部分类.dll
+E:\Code\C#\10_7_部分类\obj\Debug\netcoreapp3.1\10_7_部分类.pdb
+E:\Code\C#\10_7_部分类\obj\Debug\netcoreapp3.1\10_7_部分类.genruntimeconfig.cache

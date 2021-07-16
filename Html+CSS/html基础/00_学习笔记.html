@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- 1、标签 -->
+    <h1>h1只能出现一次，一级标题</h1>
+    <h2>二级标题</h2>
+    <strong>文本强调加粗</strong>
+    <em>文本强调，斜体</em>
+    <sup>下标文本如表示a的平方</sup>
+    <sub>下标文本如表示H2O的2</sub>
+    <del>文本删除线</del>
+    <ins>文本下划线</ins>
+    <img src="引入图片的地址" alt="图片出错时显示的交互" title="图片提示信息，鼠标悬停时显示" width="图片宽" height="图片高"> <!-- img是单标签 -->
+    <a href="链接地址" target="_self,在当前页面打开；_blank,在新窗口打开">标签名</a> <!-- 跳转链接 -->
+    <!-- 例：图片跳转链接
+                <a href="链接地址">标签名</a> 
+                    <img src="xx" alt="xx" >  -->
+    <ul>
+        <li>ul与li联合使用，嵌套之间不允许其他标签出现</li>
+        <li><a href="#" 中间可添加其他标签></a></li>
+        <li>ul与li联合使用，嵌套之间不允许其他标签出现</li>
+    </ul><!-- 创建无序列表 -->
+
+    <!-- 表格标签 -->
+    <table>
+        <caption>天气预报</caption>
+        <tr>
+            <!-- 定义表格行 -->
+            <th>
+                <!-- 定义表头 -->日期</th>
+            <th>天气</th>
+        </tr>
+        <tr>
+            <!-- 定义表格行 -->
+            <td>
+                <!-- 定义表格单元 -->20.1.26</td>
+            <td>晴</td>
+        </tr>
+    </table>
+
+    <div>分块，与css定制样式</div>
+    <span> 文字内联，与css共用定制样式</span>
+
+    <!-- 2、路径 -->
+    <!-- 绝对路径 文件位置
+             相对路径 ./img/animal/dog.jpg，斜线/              与反斜线\通用,网址用/ -->
+</body>
+
+</html>

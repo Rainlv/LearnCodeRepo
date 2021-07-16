@@ -1,0 +1,73 @@
+## day 01——jupyter 简介
+		一、快捷键
+				1、	运行
+						Crtl + Enter  运行当前单元
+						Alt + Enter   运行当前单元，并在下面插入新一行
+						Shift + Enter 运行当前单元，光标移入下一行
+				2、插入新单元行
+						a（above） 在上面插入一行
+						b（below） 在下面插入一行
+				3、删除
+						双击 D
+				4、代码提示
+						tab
+				5、代码方法API
+						（）内shift + tab
+				6、Markdown切换
+						选中单元格按M			
+		二、魔法指令
+				1、代码运行计时 
+						%time 	单行代码计时
+						%%time 单元代码计时，必须放在行首（前面有注释都不行）
+				2、显示所有可用魔法指令
+						%lsmagic
+		三、Markdown
+				显示图片：
+					 	![ ]( 图片路径/url地址)  	
+
+## day 02	numpy简介
+
+				ndarray是加强版的列表
+				
+				创建np.array
+
+				常规函数
+
+				ndarray属性
+
+				索引
+
+				图片本质是三维ndarray，彩色三维：高度，宽度，像素
+
+				int8 --- 8位 2**8 --> -128~127				
+				uint8--无符号，0-255
+
+				np级联 -- np.concatence( )
+								  np.vstack( ) 竖直方向 axis = 0
+ 								  np.hstack( ) 水平方向 axis = 1
+
+ 				np切割 -- np.split( )
+ 								  np.vsplit( )
+ 								  np.hsplit( ) 
+
+## day03 numpy简介
+
+				np统计学：（具体函数查文档）
+							平均值、中位数、方差、标准差、协方差、关联（相关系数）
+				np读写操作:
+							.npy
+							.txt
+				np矩阵计算
+							线性代数
+							解方程，解复杂方程
+							逆矩阵求方程
+				np广播机制
+							批量操作
+				np排序
+							sort( )
+
+				进阶  查看文档
+
+				归一化、正则化，将原数组映射到0-1之间
+							 0-1之间的这个新数组可以完全代表原来的比较大的数据
+							 去量纲

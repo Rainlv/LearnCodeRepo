@@ -1,0 +1,13 @@
+E:\Code\C#\10_2_extend\bin\Debug\netcoreapp3.1\10_2_extend.exe
+E:\Code\C#\10_2_extend\bin\Debug\netcoreapp3.1\10_2_extend.deps.json
+E:\Code\C#\10_2_extend\bin\Debug\netcoreapp3.1\10_2_extend.runtimeconfig.json
+E:\Code\C#\10_2_extend\bin\Debug\netcoreapp3.1\10_2_extend.runtimeconfig.dev.json
+E:\Code\C#\10_2_extend\bin\Debug\netcoreapp3.1\10_2_extend.dll
+E:\Code\C#\10_2_extend\bin\Debug\netcoreapp3.1\10_2_extend.pdb
+E:\Code\C#\10_2_extend\obj\Debug\netcoreapp3.1\10_2_extend.csprojAssemblyReference.cache
+E:\Code\C#\10_2_extend\obj\Debug\netcoreapp3.1\10_2_extend.AssemblyInfoInputs.cache
+E:\Code\C#\10_2_extend\obj\Debug\netcoreapp3.1\10_2_extend.AssemblyInfo.cs
+E:\Code\C#\10_2_extend\obj\Debug\netcoreapp3.1\10_2_extend.csproj.CoreCompileInputs.cache
+E:\Code\C#\10_2_extend\obj\Debug\netcoreapp3.1\10_2_extend.dll
+E:\Code\C#\10_2_extend\obj\Debug\netcoreapp3.1\10_2_extend.pdb
+E:\Code\C#\10_2_extend\obj\Debug\netcoreapp3.1\10_2_extend.genruntimeconfig.cache

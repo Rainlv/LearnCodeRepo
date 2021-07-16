@@ -1,0 +1,12 @@
+E:\Code\C#\18_md5\bin\Debug\netcoreapp3.1\18_md5.exe
+E:\Code\C#\18_md5\bin\Debug\netcoreapp3.1\18_md5.deps.json
+E:\Code\C#\18_md5\bin\Debug\netcoreapp3.1\18_md5.runtimeconfig.json
+E:\Code\C#\18_md5\bin\Debug\netcoreapp3.1\18_md5.runtimeconfig.dev.json
+E:\Code\C#\18_md5\bin\Debug\netcoreapp3.1\18_md5.dll
+E:\Code\C#\18_md5\bin\Debug\netcoreapp3.1\18_md5.pdb
+E:\Code\C#\18_md5\obj\Debug\netcoreapp3.1\18_md5.AssemblyInfoInputs.cache
+E:\Code\C#\18_md5\obj\Debug\netcoreapp3.1\18_md5.AssemblyInfo.cs
+E:\Code\C#\18_md5\obj\Debug\netcoreapp3.1\18_md5.csproj.CoreCompileInputs.cache
+E:\Code\C#\18_md5\obj\Debug\netcoreapp3.1\18_md5.dll
+E:\Code\C#\18_md5\obj\Debug\netcoreapp3.1\18_md5.pdb
+E:\Code\C#\18_md5\obj\Debug\netcoreapp3.1\18_md5.genruntimeconfig.cache

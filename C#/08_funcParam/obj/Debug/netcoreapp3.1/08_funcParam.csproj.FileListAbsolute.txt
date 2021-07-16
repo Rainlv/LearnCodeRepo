@@ -1,0 +1,13 @@
+E:\Code\C#\08_funcParam\bin\Debug\netcoreapp3.1\08_funcParam.exe
+E:\Code\C#\08_funcParam\bin\Debug\netcoreapp3.1\08_funcParam.deps.json
+E:\Code\C#\08_funcParam\bin\Debug\netcoreapp3.1\08_funcParam.runtimeconfig.json
+E:\Code\C#\08_funcParam\bin\Debug\netcoreapp3.1\08_funcParam.runtimeconfig.dev.json
+E:\Code\C#\08_funcParam\bin\Debug\netcoreapp3.1\08_funcParam.dll
+E:\Code\C#\08_funcParam\bin\Debug\netcoreapp3.1\08_funcParam.pdb
+E:\Code\C#\08_funcParam\obj\Debug\netcoreapp3.1\08_funcParam.AssemblyInfoInputs.cache
+E:\Code\C#\08_funcParam\obj\Debug\netcoreapp3.1\08_funcParam.AssemblyInfo.cs
+E:\Code\C#\08_funcParam\obj\Debug\netcoreapp3.1\08_funcParam.csproj.CoreCompileInputs.cache
+E:\Code\C#\08_funcParam\obj\Debug\netcoreapp3.1\08_funcParam.dll
+E:\Code\C#\08_funcParam\obj\Debug\netcoreapp3.1\08_funcParam.pdb
+E:\Code\C#\08_funcParam\obj\Debug\netcoreapp3.1\08_funcParam.genruntimeconfig.cache
+E:\Code\C#\08_funcParam\obj\Debug\netcoreapp3.1\08_funcParam.csprojAssemblyReference.cache
